@@ -14,4 +14,7 @@ Business student at **Hult International Business School**, working across **fin
 ### Tools
 Python (pandas, NumPy, scikit-learn, matplotlib, seaborn) · Excel financial modeling · forecasting & optimization · data visualization
 
+### Connect
+[LinkedIn](https://www.linkedin.com/in/sahanamaheshwari1811)
+
 <sub>This profile README is a starting point — edit it anytime in the <code>sahana-maheshwari</code> repository.</sub>
